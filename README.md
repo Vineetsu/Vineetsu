@@ -1,6 +1,18 @@
+<h2 align="start">
+Hi Folks, this is Vineet
+</h2>
+
 <!-- Background Banner Image -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/c2/7d/82/c27d826548752752e477f0e22bd1338d.jpg" alt="Banner" width="100%">
+</p>
+
+<!-- Description -->
+<p >
+Passionate about coding and solving real-world problems with clean, efficient solutions.
+Currently diving deep into AI nad ML, and Webgl, always eager to learn new tech.
+I believe creativity and logic go hand in hand to build impactful and beautiful digital experiences.
+When I’m not coding, you’ll find me exploring new ideas or experimenting with 3D animations.
 </p>
 
 <!-- Side-by-Side Blue Border Boxes -->
