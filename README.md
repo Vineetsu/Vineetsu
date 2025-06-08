@@ -10,6 +10,5 @@
 const vineet = {
   university: "MS Ramaiah Institute of Technology",
   year: "Penultimate Year CSE 🧑‍🎓",
-  loves: ["Code", "Football", "3D", "Animations"],
-  
+  loves: ["Code", "Football", "3D", "Animations"]
 }
